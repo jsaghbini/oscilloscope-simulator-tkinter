@@ -2,3 +2,5 @@ Pour lancer ce programme, veuillez installer deux libraries de python en plus po
 
 - pip install webcolors
 - pip install scipy
+
+- Johnny SAGHBINI
