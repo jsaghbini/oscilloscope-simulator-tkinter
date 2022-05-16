@@ -1,0 +1,17 @@
+*Scale.foreground: darkblue
+*signal.foreground: green
+
+*harmonicsScale.foreground: darkred
+
+*harmonicsFrame.foreground: darkblue
+*harmonicsAllRadioButton.background: darkblue
+*harmonicsAllRadioButton.foreground: orange
+*harmonicsOddRadioButton.background: darkblue
+*harmonicsOddRadioButton.foreground: orange
+
+*xy_Frame.foreground: darkblue
+*xCheckButton.background: darkblue
+*xCheckButton.foreground: orange
+*yCheckButton.background: darkblue
+*yCheckButton.foreground: orange
+
